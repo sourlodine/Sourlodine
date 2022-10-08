@@ -31,4 +31,3 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <p align="center"> 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Redmon540&show_icons=true&theme=gotham" alt="Chris Nakamura" />
-</p>
