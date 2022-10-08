@@ -2,7 +2,7 @@
 Hello, I'm [Chris Nakamura](https://#/), a passionate self-taught Blockchain developer and a freelance software engineer from Japan. 
 I take great care in the experience, architecture, and code quality of the things I build.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redmon540&langs_count=10&layout=compact&theme=rose_pine" width=70%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redmon540&langs_count=10&layout=compact&theme=rose_pine" width=100%/>
 
 <img align="right" alt="GIF" src="assets/logo.gif?raw=true" width="400" height="300" />
   
@@ -17,9 +17,10 @@ I take great care in the experience, architecture, and code quality of the thing
 
 **tools**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 **database**
 
@@ -30,4 +31,4 @@ I take great care in the experience, architecture, and code quality of the thing
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Redmon540&show_icons=true&theme=gotham" alt="Chris" />
