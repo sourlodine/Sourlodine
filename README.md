@@ -2,9 +2,7 @@
 Hello, I'm [Chris Nakamura](https://#/), a passionate self-taught Blockchain developer and a freelance software engineer from Japan. 
 I take great care in the experience, architecture, and code quality of the things I build.
 
-<img src="assets/logo.gif" width=30%>
-
-<img width=50%
+<img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redmon540&langs_count=10&layout=compact&theme=rose_pine" />
 
 <br />
