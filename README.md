@@ -4,14 +4,13 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redmon540&langs_count=10&layout=compact&theme=rose_pine" width=100%/>
 
-<img align="right" alt="GIF" src="assets/logo.gif?raw=true" width="400" height="300" />
+<img align="right" alt="GIF" src="assets/logo.gif?raw=true" width="500" height="350" />
   
 - 💼 any freelance work? do reach, [email](ny581383@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages**  
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
