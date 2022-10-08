@@ -1,5 +1,5 @@
 # 👋 Welcome 👋
-Hello, i'm [Chris Nakamura](https://#/), a passionate self-taught Blockchain developer and a freelance software engineer from Japan. 
+Hello, I'm [Chris Nakamura](https://#/), a passionate self-taught Blockchain developer and a freelance software engineer from Japan. 
 I take great care in the experience, architecture, and code quality of the things I build.
 
 <img src="assets/logo.gif" width=30%>
@@ -7,12 +7,9 @@ I take great care in the experience, architecture, and code quality of the thing
 <img width=50%
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redmon540&langs_count=10&layout=compact&theme=rose_pine" />
 
-<img width=50%
-    src="https://github-profile-trophy.vercel.app/?username=Redmon540&column=4&margin-h=15&theme=juicyfresh" />
-
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/Redmon540/assets/logo.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="assets/logo.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](ny581383@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
