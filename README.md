@@ -12,21 +12,32 @@ I take great care in the experience, architecture, and code quality of the thing
 **languages**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="40" src="assets/logo/solidity.png"></code>
+<code><img height="40" src="assets/logo/go.png"></code>
+<code><img height="40" src="assets/logo/c++.png"></code>
+<code><img height="40" src="assets/logo/c#.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="assets/logo/ts.png"></code>
+
 
 **tools**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
+<code><img height="40" src="assets/logo/next.png"></code>
+<code><img height="40" src="assets/logo/vite.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 **database**
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="assets/logo/mysql.png"></code>
+<code><img height="40" src="assets/logo/mongodb.png"></code>
+<code><img height="40" src="assets/logo/firebase.png"></code>
 
+**database**
+<code><img height="40" src="assets/logo/solana.png"></code>
+<code><img height="40" src="assets/logo/near.png"></code>
+<code><img height="40" src="assets/logo/tron.png"></code>
 
 📈 my github stats
 
