@@ -7,4 +7,4 @@
 <img width=90%
     src="https://github-profile-trophy.vercel.app/?username=softwarearchitect817&column=4&margin-h=15&theme=juicyfresh">
 
-<img src="GitHub/DevOps.gif">
+<img src="assets/logo.gif">
