@@ -41,4 +41,4 @@ I take great care in the experience, architecture, and code quality of the thing
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=gotham" alt="***" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Redmon540&show_icons=true&theme=gotham" alt="***" />
