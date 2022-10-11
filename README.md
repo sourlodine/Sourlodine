@@ -1,5 +1,5 @@
 # 👋 Welcome 👋
-Hello, I'm [Chris Nakamura](https://#/), a passionate self-taught Blockchain developer and a freelance software engineer from Japan. 
+Hello, I'm [Redmon](https://#/), a passionate self-taught Blockchain developer and a freelance software engineer from Japan. 
 I take great care in the experience, architecture, and code quality of the things I build.
 
 <img align="right" alt="GIF" src="assets/logo.gif?raw=true" width="500" height="350" />
