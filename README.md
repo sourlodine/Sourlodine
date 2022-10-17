@@ -84,7 +84,7 @@ I take great care in the experience, architecture, and code quality of the thing
             alt="Angular"
             height="50"
         /></a></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img style="margin: 10px" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 **database**
 
@@ -112,9 +112,9 @@ I take great care in the experience, architecture, and code quality of the thing
 
 **blockchain**
 
-<code><img height="40" src="assets/logo/solana.png"></code>
-<code><img height="40" src="assets/logo/near.png"></code>
-<code><img height="40" src="assets/logo/tron.png"></code>
+<code><img style="margin: 10px" height="50" src="assets/logo/solana.png"></code>
+<code><img style="margin: 10px" height="50" src="assets/logo/near.png"></code>
+<code><img style="margin: 10px" height="50" src="assets/logo/tron.png"></code>
 
 
 📈 my github stats
