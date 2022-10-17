@@ -105,7 +105,7 @@ I take great care in the experience, architecture, and code quality of the thing
 <code><a href="https://firebase.google.com/" target="_blank"
           ><img
             style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/firebase.png"
+            src="assets/logo/firebase.png"
             alt="Firebase"
             height="50"
         /></a></code>
