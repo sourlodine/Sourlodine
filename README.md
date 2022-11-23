@@ -23,9 +23,8 @@ I take great care in the experience, architecture, and code quality of the thing
     <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
 **> Tools**  
@@ -72,9 +71,11 @@ I take great care in the experience, architecture, and code quality of the thing
 **> Blockchain**
 
 <p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Ethereum-F05033.svg?logo=ethereum&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Tron-FF6C37?logo=tron&logoColor=white"></a>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Near-3DDC84?logo=near&logoColor=white"></a> 
+    <a href="#"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-F37626.svg?logo=ethereum&logoColor=white"></a>
+    <a href="#"><img alt="Tron" src="https://img.shields.io/badge/Tron-FF6C37?logo=tron&logoColor=white"></a>
+    <a href="#"><img alt="Near" src="https://img.shields.io/badge/Near-3DDC84?logo=near&logoColor=white"></a>
+    <a href="#"><img alt="Solana" src="https://img.shields.io/badge/Solana-3DDC84?logo=solana&logoColor=white"></a>
+    <a href="#"><img alt="Aptos" src="https://img.shields.io/badge/Aptos-000000?logo=aptos&logoColor=white"></a>
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Redmon540&show_icons=true&theme=gotham" alt="***" />
