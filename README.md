@@ -2,7 +2,7 @@
   <a href="https://github.com/Redmon540"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Full%20Stack%20Developer;Blockchain%20Developer;7%2B%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-Hello, I'm a passionate self-taught Blockchain developer and a freelance software engineer from Canada. 
+Hello, I'm a passionate self-taught Blockchain developer and a freelance software engineer from San Francisco. 
 I take great care in the experience, architecture, and code quality of the things I build.
 
 <p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Redmon540" /> </p>
