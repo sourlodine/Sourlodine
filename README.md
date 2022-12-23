@@ -5,7 +5,7 @@
 Hello, I'm a passionate self-taught Blockchain developer and a freelance software engineer from San Francisco. 
 I take great care in the experience, architecture, and code quality of the things I build.
 
-<p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=Grumpy-Gorilla&label=Profile%20views&color=0e75b6&style=flat" alt="Harry" /> </p>
+<p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Harry" /> </p>
   
 - 💼 any freelance work? do reach, [email](ny581383@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
