@@ -10,7 +10,7 @@ I take great care in the experience, architecture, and code quality of the thing
 - 💼 any freelance work? do reach, [email](ny581383@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Favourite Tech</h2>
 
 **> Programming languages**  
 
