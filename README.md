@@ -69,7 +69,7 @@ I take great care in the experience, architecture, and code quality of the thing
       </a>
       <br>cosmos
     </td>
-    <td align="center" width="60">
+    <td align="center" width="60px">
       <a href="#macropower-tech">
         <img src="./assets/logo/sui.png" width="30" height="30" alt="Sui" />
       </a>
