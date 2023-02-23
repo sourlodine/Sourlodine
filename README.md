@@ -10,8 +10,6 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Harry" /> </p>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
 
 ## Experienced Blockchain Networks
 
@@ -85,6 +83,9 @@ I take great care in the experience, architecture, and code quality of the thing
     </td>
   </tr>
 </table>
+
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
 
 **> Programming languages**  
 
