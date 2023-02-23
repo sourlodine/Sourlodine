@@ -1,16 +1,90 @@
 <p align="center">
   <a href="https://github.com/Redmon540"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Full%20Stack%20Developer;Blockchain%20Developer;7%2B%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
+<p align="center">
+  <img align="center" src="./assets/Blockchain.png" style = "width: -webkit-fill-available;"/>
+</p>
 
-Hello, I'm a passionate self-taught Blockchain developer and a freelance software engineer from San Francisco. 
+Hello, I'm a passionate self-taught Blockchain developer and software engineer from San Francisco. 
 I take great care in the experience, architecture, and code quality of the things I build.
 
 <p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Harry" /> </p>
-  
-- 💼 any freelance work? do reach, [email](ny581383@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+
+## Experienced Blockchain Networks
+
+<table>
+  <tr>
+    <td align="center" width="60">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/ethereum.png" width="30" height="30" alt="Ethereum" />
+      </a>
+      <br>Ethereum
+    </td>
+    <td align="center" width="60">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/polygon.png" width="30" height="30" alt="Polygon" />
+      </a>
+      <br>Polygon
+    </td>
+    <td align="center" width="60">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/binance.png" width="30" height="30" alt="Binance" />
+      </a>
+      <br>Binance
+    </td>
+    <td align="center" width="60">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/avalanche.png" width="30" height="30" alt="Avalanche" />
+      </a>
+      <br>Avalanche
+    </td>
+    <td align="center" width="60">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/cardano.png" width="30" height="30" alt="Cardano" />
+      </a>
+      <br>Cardano
+    </td>
+    <td align="center" width="60">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/cronos.png" width="30" height="30" alt="Cronos" />
+      </a>
+      <br>Cronos
+    </td>
+    <td align="center" width="60">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/near.png" width="30" height="30" alt="Near" />
+      </a>
+      <br>Near
+    </td>
+    <td align="center" width="60">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/solana.png" width="30" height="30" alt="Solana" />
+      </a>
+      <br>Solana
+    </td>
+    <td align="center" width="60">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/cosmos.png" width="30" height="30" alt="Cosmos" />
+      </a>
+      <br>cosmos
+    </td>
+    <td align="center" width="60">
+      <a href="#macropower-tech">
+        <img src="./assets/logo/sui.png" width="30" height="30" alt="Sui" />
+      </a>
+      <br>Sui
+    </td>
+    <td align="center" width="60">
+      <a href="#macropower-tech" >
+        <img src="./assets/logo/aptos.png" width="30" height="30" alt="Aptos" />
+      </a>
+      <br>Aptos
+    </td>
+  </tr>
+</table>
 
 **> Programming languages**  
 
@@ -68,14 +142,6 @@ I take great care in the experience, architecture, and code quality of the thing
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-**> Blockchain**
 
-<p>
-    <a href="#"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-F37626.svg?logo=ethereum&logoColor=white"></a>
-    <a href="#"><img alt="Tron" src="https://img.shields.io/badge/Tron-FF6C37?logo=tron&logoColor=white"></a>
-    <a href="#"><img alt="Near" src="https://img.shields.io/badge/Near-3DDC84?logo=near&logoColor=white"></a>
-    <a href="#"><img alt="Solana" src="https://img.shields.io/badge/Solana-3DDC84?logo=solana&logoColor=white"></a>
-    <a href="#"><img alt="Aptos" src="https://img.shields.io/badge/Aptos-000000?logo=aptos&logoColor=white"></a>
-</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=evilgon&show_icons=true&theme=gotham" alt="***" />
