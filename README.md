@@ -1,15 +1,20 @@
 <p align="center">
-  <a href="https://github.com/Redmon540"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Full%20Stack%20Developer;Blockchain%20Developer;7%2B%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/evilgon"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Full%20Stack%20Developer;Blockchain%20Developer;7%2B%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <p align="center">
   <img align="center" src="./assets/Blockchain.png" style = "width: -webkit-fill-available;"/>
 </p>
 
-Hello, I'm a passionate self-taught Blockchain developer and software engineer from San Francisco. 
+Hello, I'm a passionate self-taught Blockchain developer and software engineer from San Francisco.
 I take great care in the experience, architecture, and code quality of the things I build.
 
-<p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Harry" /> </p>
-
+<p align="left" style="font-family: Brush Script MT"> 
+<img src="https://komarev.com/ghpvc/?username=evilgon&label=Profile%20views&color=0e75b6&style=flat" alt="Harry" /> 
+<a href="mailto:harran39318@gmail.com"><img align="left" src="./assets/logo/email.svg" alt="Harry | Email" width="24px"/></a>
+<a href="https://join.skype.com/invite/pYAtG984Y71h"><img align="left" src="./assets/logo/skype.svg" alt="Harry | Skype" width="24px"/></a>
+<a href="https://discordapp.com/users/1026521907182444574"><img align="left" src="./assets/logo/discord.svg" alt="Harry | Discord" width="24px"/></a>
+<a href="https://t.me/evilgon214/"><img align="left" src="./assets/logo/telegram.svg" alt="Harry | Telegram" width="24px"/></a>
+</p>
 
 ## Experienced Blockchain Networks
 
@@ -86,8 +91,7 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-
-**> Programming languages**  
+**> Programming languages**
 
 <p>
   <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -102,7 +106,7 @@ I take great care in the experience, architecture, and code quality of the thing
     <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-**> Tools**  
+**> Tools**
 
 <p>
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-404d59.svg?logo=laravel&logoColor=white"></a>
@@ -142,7 +146,5 @@ I take great care in the experience, architecture, and code quality of the thing
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=evilgon&show_icons=true&theme=gotham" alt="***" />
