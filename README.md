@@ -9,7 +9,7 @@ Hello, I'm a passionate self-taught Blockchain developer and software engineer f
 I take great care in the experience, architecture, and code quality of the things I build.
 
 <p align="left" style="font-family: Brush Script MT"> 
-<img src="https://komarev.com/ghpvc/?username=evilgon&label=Profile%20views&color=0e75b6&style=flat" alt="Harry" /> 
+<img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Harry" /> 
 <a href="mailto:harran39318@gmail.com"><img align="left" src="./assets/logo/email.svg" alt="Harry | Email" width="24px"/></a>
 <a href="https://join.skype.com/invite/pYAtG984Y71h"><img align="left" src="./assets/logo/skype.svg" alt="Harry | Skype" width="24px"/></a>
 <a href="https://discordapp.com/users/1026521907182444574"><img align="left" src="./assets/logo/discord.svg" alt="Harry | Discord" width="24px"/></a>
