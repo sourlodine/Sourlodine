@@ -3,9 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Full%20Stack%20Developer;Blockchain%20Developer;8%2B%20years%20of%20Software%20experience;Harry%20Anderson&font=Anton&center=true&width=650&height=120&color=FF7B9C&vCenter=true&size=45%22">
   </a>
 </p>
-<p align="center">
-  <img align="center" src="./assets/Blockchain.png" style = "width: -webkit-fill-available;"/>
-</p>
 
 Hello, I'm a passionate self-taught Blockchain developer and software engineer from San Francisco.
 I take great care in the experience, architecture, and code quality of the things I build.
