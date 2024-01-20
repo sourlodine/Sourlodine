@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Hello, I'm a passionate self-taught Blockchain developer and software engineer from San Francisco.
+Hello, I'm a passionate self-taught Blockchain developer and software engineer from worldwide.
 I take great care in the experience, architecture, and code quality of the things I build.
 
 <p align="left" style="font-family: Brush Script MT"> 
