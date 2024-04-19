@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/evilgon">
+  <a href="https://github.com/sourlodine">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Full%20Stack%20Developer;Blockchain%20Developer;8%2B%20years%20of%20Software%20experience;Web3%20Expert&font=Anton&center=true&width=650&height=120&color=FF7B9C&vCenter=true&size=45%22">
   </a>
 </p>
@@ -11,7 +11,7 @@ I take great care in the experience, architecture, and code quality of the thing
 <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Harry" /> 
 <a href="mailto:harran39318@gmail.com"><img align="left" src="./assets/logo/email.svg" alt="Harry | Email" width="24px"/></a>
 <a href="https://discordapp.com/users/1026521907182444574"><img align="left" src="./assets/logo/discord.svg" alt="Harry | Discord" width="24px"/></a>
-<a href="https://t.me/evilgon/"><img align="left" src="./assets/logo/telegram.svg" alt="Harry | Telegram" width="24px"/></a>
+<a href="https://t.me/harry_service/"><img align="left" src="./assets/logo/telegram.svg" alt="Harry | Telegram" width="24px"/></a>
 </p>
 
 ## Experienced Blockchain Networks
