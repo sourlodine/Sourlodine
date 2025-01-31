@@ -10,7 +10,7 @@ I take great care in the experience, architecture, and code quality of the thing
 <p align="left" style="font-family: Brush Script MT"> 
 <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Harry" /> 
 <a href="mailto:harran39318@gmail.com"><img align="left" src="./assets/logo/email.svg" alt="Email" width="24px"/></a>
-<a href="https://t.me/evilgon_dev/"><img align="left" src="./assets/logo/telegram.svg" alt="Telegram" width="24px"/></a>
+<a href="https://t.me/sourlodine/"><img align="left" src="./assets/logo/telegram.svg" alt="Telegram" width="24px"/></a>
 </p>
 
 ## Experienced Blockchain Networks
